@@ -3,7 +3,7 @@
 
  Página príncipal de uma loja de tênis com animações simples, itens enfileirados e responsivos para todos aparelhos usando Flexbox.  
 
-## Features
+## Tecnologia
 
 - html
 - css
